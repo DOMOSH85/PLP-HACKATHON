@@ -1,0 +1,29 @@
+body{
+    background-attachment: scroll;
+    background-image: url(Pics/bg2.jpg);
+}
+
+
+
+.about{display: inline-block;
+    align-items: center;
+    margin-top: 200px;
+    margin-left: 300px;
+    font-size: 27px;
+    background-position: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.about span{
+    color: brown;
+}
+
+.about h2{
+
+    text-align: center;
+    text-decoration: underline;
+}
+nav a{
+    text-decoration: none;
+    color: brown;
+}

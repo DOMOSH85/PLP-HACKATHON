@@ -1,0 +1,36 @@
+body{
+    background-image: url(Pics/bg1.jpg);
+    background-attachment: scroll;
+}
+
+
+
+.projects{
+    display: inline-block;
+    justify-items: center;
+    align-items: center;
+    margin-top: 150px;
+    margin-left: 300px;
+    font-size: 20px;
+   
+}
+
+.projects li a{
+    color: brown;
+    text-decoration: none;
+}
+li:hover{
+    background-color: bisque;
+}
+.projects span{
+    color: rgb(238, 23, 23);
+}
+
+.projects em{
+    color: blueviolet;
+}
+
+nav a{
+    text-decoration: none;
+    color: brown;
+}

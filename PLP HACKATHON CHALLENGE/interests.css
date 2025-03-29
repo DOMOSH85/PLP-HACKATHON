@@ -1,0 +1,25 @@
+body{
+    background-image: url(Pics/bg5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    }
+
+    .interests{
+                display: inline-block;
+                 align-items: center;
+                 margin-top: 200px;
+                 margin-left: 300px;
+                 font-size: 27px;
+                background-position: center;
+    }
+
+    .interests span{
+                    color:rgb(233, 11, 11);
+                    }
+
+nav a{
+    text-decoration: none;
+    color: brown;
+}
+
